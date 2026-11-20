@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-11-20T17:46:44",
+  "description": "## [3.13.0-dev.2](https://github.com/andrewliang25/morphe-patches/compare/v3.13.0-dev.1...v3.13.0-dev.2) (2026-11-20)\n\n### ✨ New Features\n\n* **LINE - Unlock app icons:** show and unlock every app icon ([91ed919](https://github.com/andrewliang25/morphe-patches/commit/91ed919f6c130b77b27529cba69b11f19a546f05)), closes [#234](https://github.com/andrewliang25/morphe-patches/issues/234)",
+  "download_url": "https://github.com/andrewliang25/morphe-patches/releases/download/v3.13.0-dev.2/patches-3.13.0-dev.2.mpp",
+  "signature_download_url": "",
+  "version": "3.13.0-dev.2"
+}
